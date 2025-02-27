@@ -28,4 +28,10 @@
    - 使用AES加密算法
    - 密码查看需要输入密钥
 
-## 项目结构 
+## 运行
+运行gui.py即可使用，python gui.py
+
+## 运行环境
+安装python
+安装依赖包  pip install pandas openpyxl cryptography
+
